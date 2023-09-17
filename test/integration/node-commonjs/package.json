@@ -7,6 +7,6 @@
     "test-auto": "node test-auto.js"
   },
   "dependencies": {
-    "chart.js": "workspace:*"
+    "ilkkah-chart.js": "workspace:*"
   }
 }

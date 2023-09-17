@@ -3,7 +3,7 @@
   "type": "module",
   "description": "chart.js should work in node typescript project",
   "dependencies": {
-    "chart.js": "workspace:*",
+    "ilkkah-chart.js": "workspace:*",
     "typescript": "^4.7.4"
   },
   "scripts": {

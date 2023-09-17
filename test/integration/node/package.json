@@ -8,6 +8,6 @@
     "test-cjs": "node test.cjs"
   },
   "dependencies": {
-    "chart.js": "workspace:*"
+    "ilkkah-chart.js": "workspace:*"
   }
 }
